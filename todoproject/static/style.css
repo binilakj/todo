@@ -1,0 +1,19 @@
+.banner{
+   background-color:tomato ;
+   width:100%;
+   height:200px;
+   margin-bottom:50px;
+}
+
+.banner-text{
+   top:10%;
+   left:45%;
+   position:absolute;
+   transform:transform;
+}
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
